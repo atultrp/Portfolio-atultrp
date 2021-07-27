@@ -22,6 +22,9 @@ Website link : [Bootstrap Website Template](https://atultrp.github.io/Personal-s
   
 ## 📸️ Screenshots
 
+![Home-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-home-page.png)
+![About-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-about-page.png)
+
   
 ## ⚔️ Run Locally
 
