@@ -28,7 +28,7 @@ Website link : [Personal Portfolio-site](https://atultrp.github.io/Personal-site
 
 ### 🌀️ About Page
 
-![About-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-about-page.png)
+<!-- ![About-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-about-page.png) -->
 
   
 ## ⚔️ Run Locally
