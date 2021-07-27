@@ -11,7 +11,7 @@ This website template is simply made by using pure
 
 ## 📍️ Demo
 
-Website link : [Bootstrap Website Template](https://atultrp.github.io/Personal-site/)
+Website link : [Personal Portfolio-site](https://atultrp.github.io/Personal-site/)
 ## 😯️ Features
 
 - Light mode toggle
@@ -22,7 +22,12 @@ Website link : [Bootstrap Website Template](https://atultrp.github.io/Personal-s
   
 ## 📸️ Screenshots
 
+### 🏠️ Home Page
+
 ![Home-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-home-page.png)
+
+### 🌀️ About Page
+
 ![About-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-about-page.png)
 
   
