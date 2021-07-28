@@ -19,16 +19,20 @@ Website link : [Personal Portfolio-site](https://atultrp.github.io/Personal-site
 - Fullscreen mode
 - Cross platform
 
-  
+
 ## 📸️ Screenshots
+<br />
 
 ### 🏠️ Home Page
 
 ![Home-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-home-page.png)
 
+<br />
+
 ### 🌀️ About Page
 
 ![About-image](https://github.com/atultrp/Personal-site/blob/main/images/Personal-site-about-page.png?raw=true)
+<br />
 
   
 ## ⚔️ Run Locally
