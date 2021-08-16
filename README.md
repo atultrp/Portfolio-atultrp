@@ -5,7 +5,7 @@ This website is the personal portfolio of mine, here you can also find what I'm 
 
 ## 📃️ Documentation
 
-This website template is simply made by using pure
+This website is simply made by using pure
 * [HTML](https://www.w3schools.com/html/html_intro.asp)
 * [CSS](https://www.w3schools.com/css/default.asp)
 
