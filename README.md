@@ -11,7 +11,7 @@ This website is simply made by using pure
 
 ## 📍️ Demo
 
-Website link : [Personal Portfolio-site](https://atultrp.github.io/Personal-site/)
+Website link : [Personal Portfolio-site](https://atultrp.github.io/Portfolio-atultrp/)
 ## 😯️ Features
 
 - Light mode toggle
